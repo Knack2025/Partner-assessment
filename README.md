@@ -1,0 +1,1 @@
+# Knack Collective - Partner Assessment App\n\nSetup:\n1. npm install\n2. npm run dev\n\nBuild:\nnpm run build\nDeploy to Netlify: connect repo and set build 'npm run build' publish 'dist'\n\nReplace EmailJS IDs in src/pages/ResultsPage.jsx to enable email sending.\n
