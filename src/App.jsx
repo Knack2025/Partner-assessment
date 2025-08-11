@@ -31,7 +31,7 @@ function App(){
     <div className="min-h-screen flex flex-col font-work">
       <header className="flex items-center justify-between p-6 border-b">
         <div className="flex items-center space-x-4">
-          <img src="/src/assets/knack-logo.png" alt="Knack Collective" className="h-10"/>
+          <img src="/knack-logo.png" alt="Knack Collective" className="h-10"/>
           <h1 className="text-xl font-semibold">Knack Collective — Partner Assessment</h1>
         </div>
       </header>
